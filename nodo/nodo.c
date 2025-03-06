@@ -1,5 +1,6 @@
 #include "nodo.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 nodo* crear_nodo(int dato){
     nodo *n = (nodo*) malloc(sizeof(nodo));
