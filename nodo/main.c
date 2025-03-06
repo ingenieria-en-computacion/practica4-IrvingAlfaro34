@@ -5,7 +5,7 @@
 int main (){
     nodo *primero=NULL; 
     nodo *temp; 
-    nodo *otro; 
+    nodo *otro; git
     primero=crear_nodo(1);
     otro = crear_nodo(1);
     otro->sig=crear_nodo(3); 
